@@ -1,0 +1,14 @@
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\bin\Debug\net8.0\epic-name-change.exe
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\bin\Debug\net8.0\epic-name-change.deps.json
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\bin\Debug\net8.0\epic-name-change.runtimeconfig.json
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\bin\Debug\net8.0\epic-name-change.dll
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\bin\Debug\net8.0\epic-name-change.pdb
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.AssemblyInfoInputs.cache
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.AssemblyInfo.cs
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.csproj.CoreCompileInputs.cache
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.dll
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\refint\epic-name-change.dll
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.pdb
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\epic-name-change.genruntimeconfig.cache
+C:\Users\cyber.admin\source\repos\epic-name-change\epic-name-change\obj\Debug\net8.0\ref\epic-name-change.dll
